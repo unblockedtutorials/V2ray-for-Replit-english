@@ -1,8 +1,11 @@
 # V2ray for Replit
-Create By xiaowansm<br>
-Modlfy By ifeng<br>
-Web Site: https://www.hicairo.com <br>
-Telegram: https://t.me/HiaiFeng <br>
+- Made into english by unblockedtutorials 😎
+- Create By xiaowansm<br>
+- Modlfy By ifeng<br>
+- Web Site: https://www.hicairo.com <br>
+- Telegram: https://t.me/HiaiFeng <br>
+
+- Note replit wont be free in January 1st 2024 😞
 
 Introduction:
 This project is used to deploy V2ray on the Replit.com free service. The solution adopted is Nginx + WebSocket + VMess/VLess + TLS.
